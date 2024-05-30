@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRm3d6+XbXoQ7ngYUwldIazn/KcVEARCa8hZgjF3Lo1DBJSxS1s+MMm224efbCAEFtaIKzQkFcJi/sVHRX8VcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msneg\\source\\repos\\TaxCalculator\\CongestionTaxAPI.DataAccess\\CongestionTaxAPI.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.data.sqlite\\8.0.6\\microsoft.data.sqlite.8.0.6.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.6\\microsoft.data.sqlite.core.8.0.6.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\msneg\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

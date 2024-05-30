@@ -1,0 +1,17 @@
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.DataAccess.deps.json
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.DataAccess.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.DataAccess.pdb
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.csproj.AssemblyReference.cache
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.AssemblyInfoInputs.cache
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.AssemblyInfo.cs
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\refint\CongestionTaxAPI.DataAccess.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\CongestionTaxAPI.DataAccess.pdb
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\ref\CongestionTaxAPI.DataAccess.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.DTO.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.DTO.pdb
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\obj\Debug\net8.0\Congesti.1DB97532.Up2Date
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.Utilities.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DataAccess\bin\Debug\net8.0\CongestionTaxAPI.Utilities.pdb

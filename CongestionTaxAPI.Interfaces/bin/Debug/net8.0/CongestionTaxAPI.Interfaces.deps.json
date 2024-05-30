@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CongestionTaxAPI.Interfaces/1.0.0": {
+        "dependencies": {
+          "CongestionTaxAPI.DTO": "1.0.0"
+        },
+        "runtime": {
+          "CongestionTaxAPI.Interfaces.dll": {}
+        }
+      },
+      "CongestionTaxAPI.DTO/1.0.0": {
+        "dependencies": {
+          "CongestionTaxAPI.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "CongestionTaxAPI.DTO.dll": {}
+        }
+      },
+      "CongestionTaxAPI.Utilities/1.0.0": {
+        "runtime": {
+          "CongestionTaxAPI.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CongestionTaxAPI.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CongestionTaxAPI.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CongestionTaxAPI.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

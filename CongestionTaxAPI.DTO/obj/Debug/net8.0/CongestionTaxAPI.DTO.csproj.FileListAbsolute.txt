@@ -1,0 +1,15 @@
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\bin\Debug\net8.0\CongestionTaxAPI.DTO.deps.json
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\bin\Debug\net8.0\CongestionTaxAPI.DTO.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\bin\Debug\net8.0\CongestionTaxAPI.DTO.pdb
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.csproj.AssemblyReference.cache
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.AssemblyInfoInputs.cache
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.AssemblyInfo.cs
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.csproj.CoreCompileInputs.cache
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\Congesti.A3C3F5D8.Up2Date
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\refint\CongestionTaxAPI.DTO.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\CongestionTaxAPI.DTO.pdb
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\obj\Debug\net8.0\ref\CongestionTaxAPI.DTO.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\bin\Debug\net8.0\CongestionTaxAPI.Utilities.dll
+C:\Users\msneg\source\repos\TaxCalculator\CongestionTaxAPI.DTO\bin\Debug\net8.0\CongestionTaxAPI.Utilities.pdb
